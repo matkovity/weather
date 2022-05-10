@@ -1,13 +1,15 @@
 # weather
 
-Improvements: 
-1 Add more test for other weather events.
-2 Add more unit tests.
+Improvements:
+1 More activities to decide
+2 Create UI
 
 Testing possibilities:
-1 change data in the property file
+1 Add more Integration tests for different http response codes
+2 Add more unit tests
+3 Add Performance testing
 
-Instructions:
+Instructions to run locally:
 1 Clone repository
 2 Open with IntelliJ for example
-3 Run the test!
+3 Execute the main method in the WeatherMain.java class
