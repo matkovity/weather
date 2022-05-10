@@ -30,6 +30,6 @@ public class Current {
     long windDeg;
     @JsonProperty("wind_gust")
     long windGust;
-    String rain;
+    Rain rain;
     List<Weather> weather;
 }
